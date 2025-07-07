@@ -14,9 +14,10 @@ Ruby+Devkit 3.0.x (x64) 버전 다운로드
 3. 설치 완료 후 검은 창(Command Prompt)이 뜨면  
  1, 2, 3을 차례로 입력하여 모든 구성요소 설치  
 4. PowerShell이나 Command Prompt를 열고:  
+```
 ruby --version  
 gem --version  
-
+```
 5. gem install bundler jekyll  
 6. jekyll new my-math-blog # or jekyll new . --force   
 7. bundle exec jekyll serve  
@@ -47,5 +48,6 @@ git push origin main
 **굵게** *기울임*
 [링크](URL)
 ![이미지](이미지URL)
+줄바꿈 : 스페이스바 *2
 ```
 
