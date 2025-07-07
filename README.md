@@ -22,7 +22,7 @@ gem --version
 6. jekyll new my-math-blog # or jekyll new . --force   
 7. bundle exec jekyll serve  
 
-[추가 생성 파일]
+[추가 생성 파일]  
 _includes/mathjax.html 파일 만들기 <??>  
 _layouts/default.html 파일 만들기 <레이아웃 템플릿 (모든 페이지의 기본 구조)>  
 
