@@ -2,10 +2,10 @@
 Description  
   
 ### [개발환경]   
-VS Code 
+VS Code  
 Git  
 MSYS2  
-Rub  
+Ruby  
 
 ### [설치방법]
 https://rubyinstaller.org/downloads/ 접속  
