@@ -41,10 +41,11 @@ git commit -m "Add MathJax support and first math post"
 git push origin main
 
 [Markdown basic 명령어]
+```
 # 제목
 ## 부제목
 **굵게** *기울임*
 [링크](URL)
 ![이미지](이미지URL)
-```code```
+```
 
