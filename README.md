@@ -1,7 +1,7 @@
 # Math-Blog
 Description  
   
-[개발환경]  
+### [개발환경]  
 Windows: RubyInstaller (WITH DEVKIT 버전)  
 VS Code (가장 추천): 무료, 마크다운 미리보기, Git 통합  
 Windows: Git for Windows  
